@@ -43,7 +43,7 @@ const fade_timeout=100;//ms
                 &&ourTarget.getAttribute('rel')!=null
                 &&ourTarget.rel=="nofollow"
                 //&&/github.com/.test(ourTarget.href)==true
-                &&ourTarget.closest('#repo-content-pjax-container')!=null
+                &&(ourTarget.closest('#repo-content-pjax-container')!=null)||(ourTarget.closest('.js-truncated-assets-fragment')!=null)
                );
     }
     function isDownloadZip(e){
