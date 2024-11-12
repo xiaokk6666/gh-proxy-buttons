@@ -13,13 +13,13 @@ Add a button beside github link(releases,files and repository url), click to get
 
 脚本已发布在[Grease Fork](https://greasyfork.org/zh-CN/scripts/423488-gh-proxy-buttons)，点击即可安装。（确保已安装油猴）
 
-![install](https://cf-github.xiaokk.asia/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/install.png)
+![install](https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/install.png)
 
 ### 手动安装
 
-2. 点击油猴脚本管理器的图标，它通常长这个样子：![image-20200728152241242](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/image-20200728152241242.png)
+2. 点击油猴脚本管理器的图标，它通常长这个样子：![image-20200728152241242](https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/image-20200728152241242.png)
 
-2. 点击“管理面板”，选择“实用工具”选项卡：![image-20200728152334351](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/image-20200728152334351.png)
+2. 点击“管理面板”，选择“实用工具”选项卡：![image-20200728152334351](https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/image-20200728152334351.png)
 
 3. 此时你可以选择下列方式安装：
 
@@ -27,7 +27,7 @@ Add a button beside github link(releases,files and repository url), click to get
   2. “Install from url”：复制如下链接，填入并点击“安装”。
 
 ```txt
-https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/gh-proxy-buttons.user.js
+https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/gh-proxy-buttons.user.js
 ```
 
 ## 使用
@@ -40,8 +40,8 @@ https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons
 
 | 对象                               | 图示                                                         | 说明                                                         |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Releases页面的下载按钮             | ![release](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/release.png) | 点击按钮通过代理下载或右键复制链接                           |
-| 代码页面的文件链接（不支持文件夹） | ![file](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/file.png) | 点击按钮通过代理下载或右键复制链接                           |
+| Releases页面的下载按钮             | ![release](https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/release.png) | 点击按钮通过代理下载或右键复制链接                           |
+| 代码页面的文件链接（不支持文件夹） | ![file](https://gh.api.99988866.xyz/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/file.png) | 点击按钮通过代理下载或右键复制链接                           |
 | HTTPS仓库Clone地址的复制按钮       | ![copy](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/input.png) | 点击复制包含代理的仓库链接（基于[ClipboardJS](https://clipboardjs.com/)），仅能用于clone |
 | 完整仓库的压缩包下载               | ![zip](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/zip.png) | 点击按钮通过代理下载或右键复制链接                           |
 
