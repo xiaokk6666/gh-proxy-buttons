@@ -13,7 +13,7 @@ Add a button beside github link(releases,files and repository url), click to get
 
 脚本已发布在[Grease Fork](https://greasyfork.org/zh-CN/scripts/423488-gh-proxy-buttons)，点击即可安装。（确保已安装油猴）
 
-![install](https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/install.png)
+![install](https://cf-github.xiaokk.asia/https://github.com/du33169/gh-proxy-buttons/blob/master/README.assets/install.png)
 
 ### 手动安装
 
@@ -51,7 +51,7 @@ https://gh-proxy.du33169.workers.dev/https://github.com/du33169/gh-proxy-buttons
 
 **注意**：由于cloudflare免费版worker有单日请求数限制，如果需要大量下载，请根据[教程](https://github.com/hunshcn/gh-proxy#cf-worker%E7%89%88%E6%9C%AC%E9%83%A8%E7%BD%B2)自行部署worker。
 
-我也部署了一个worker用于分流，也是目前脚本中默认使用的：[https://cf-github.xiaokk.asia/](https://cf-github.xiaokk.asia/)。
+我也部署了一个worker用于分流：[https://cf-github.xiaokk.asia/](https://cf-github.xiaokk.asia/)。
 
 当然如果有条件也请自行按要求部署（免费）。
 
